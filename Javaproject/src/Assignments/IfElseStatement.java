@@ -3,7 +3,8 @@ package Assignments;
 import java.util.Scanner;
 
 public class IfElseStatement {
-    
+ 
+	//this is the program using if statement
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner age_input = new Scanner(System.in);
